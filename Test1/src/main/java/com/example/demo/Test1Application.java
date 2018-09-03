@@ -7,15 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Test1Application {
 
 	public static void main(String[] args) {
-		//Change comment 1
-		//Adding another comment - 2
-		//Adding comment no: 3
-		//Adding comment no 4
-		//Adding comment no. 5
-		//Adding comment no. 6
-		//Adding comment no 7
-		//Adding comment no 8
-		System.out.println("Comment no 8");
+		//Adding comment no 9
+		System.out.println("Comment no 9");
 		SpringApplication.run(Test1Application.class, args);
 	}
 }
